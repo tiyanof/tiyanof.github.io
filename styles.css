@@ -18,7 +18,7 @@ body{
 #main-page{
    background-color:rgb(9, 9, 9);  
    border-radius: 15px;
-   padding: 40px;
+   padding: 30px;
 }
 
 .container h2{
@@ -26,7 +26,7 @@ body{
     position: relative;
 }
 
-.container h5{
+.container h6{
     color: rgb(136, 136, 136);
 }
 
@@ -40,4 +40,10 @@ body{
 #my-info{
     background-color:rgb(9, 9, 9); 
     margin-left: 20px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+#text-info{
+    color: rgb(168, 168, 168);
 }
