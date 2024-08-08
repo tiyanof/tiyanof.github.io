@@ -18,10 +18,15 @@ body{
 }
 
 #main-page{
-   background-color: rgb(8, 8, 8);
+   background-color:rgb(9, 9, 9);  
+   ;
 }
 
 .container h2{
     color: rgb(164, 164, 164);
 }
 
+#profile-pic{
+    width: 150px;
+    height: 150px;
+}
